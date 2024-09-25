@@ -116,7 +116,7 @@ clickwait
 
 
 playvoice,1,download/adv/voice/character/1031/adu103108_01_13.mp3
-msg,1,<outline width=2 color=black>「那么，就让你用姐姐的技术来感受一下吧。尽量不要这么快就结束哦，加油哦？呵呵」</outline>,
+msg,1,<outline width=2 color=black>「那么，就用姐姐的技术让你来感受一下吧。尽量不要这么快就结束哦，加油哦？呵呵」</outline>,
 clickwait
 
 
@@ -202,7 +202,7 @@ clickwait
 
 
 playvoice,1,download/adv/voice/character/1031/adu103108_01_29.mp3
-msg,1,<outline width=2 color=black>「舔舔，舔舔…我也要更加努力让你感觉好…吮吮…我会让你更加兴奋的…！」</outline>,
+msg,1,<outline width=2 color=black>「舔舔，舔舔…我也要更加努力让你感到舒服…吮吮…我会让你更加兴奋的…！」</outline>,
 clickwait
 
 
